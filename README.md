@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Database Course Project
+- 🔭 I’m currently working on a Newsscraping Project
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
