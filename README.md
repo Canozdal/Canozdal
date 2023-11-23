@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Newsscraping Project
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on a Kubernetes Project
+- 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
